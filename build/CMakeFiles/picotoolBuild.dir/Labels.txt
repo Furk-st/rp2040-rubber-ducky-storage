@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/kali/rp2040_rubber_ducky/build/CMakeFiles/picotoolBuild
+/home/kali/rp2040_rubber_ducky/build/CMakeFiles/picotoolBuild.rule
+/home/kali/rp2040_rubber_ducky/build/CMakeFiles/picotoolBuild-complete.rule
+/home/kali/rp2040_rubber_ducky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/kali/rp2040_rubber_ducky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/kali/rp2040_rubber_ducky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/kali/rp2040_rubber_ducky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/kali/rp2040_rubber_ducky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/kali/rp2040_rubber_ducky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/kali/rp2040_rubber_ducky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/kali/rp2040_rubber_ducky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
