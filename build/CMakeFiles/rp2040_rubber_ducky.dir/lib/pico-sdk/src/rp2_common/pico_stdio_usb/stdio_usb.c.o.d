@@ -65,7 +65,22 @@ CMakeFiles/rp2040_rubber_ducky.dir/lib/pico-sdk/src/rp2_common/pico_stdio_usb/st
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/device/usbd.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/hid/hid_device.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/hid/hid.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/cdc/cdc.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/msc/msc_device.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/msc/msc.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h \
- /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2040/pico_platform/include/pico/platform/cpu_regs.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/m0plus.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/nvic.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/scb.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/device/usbd_pvt.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/common/tusb_private.h

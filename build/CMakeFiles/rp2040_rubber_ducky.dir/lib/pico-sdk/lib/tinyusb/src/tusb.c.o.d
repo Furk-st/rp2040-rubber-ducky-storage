@@ -66,6 +66,8 @@ CMakeFiles/rp2040_rubber_ducky.dir/lib/pico-sdk/lib/tinyusb/src/tusb.c.o: \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/device/usbd.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/hid/hid_device.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/hid/hid.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.h \
+ /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/cdc/cdc.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/msc/msc_device.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/class/msc/msc.h \
  /home/kali/rp2040_rubber_ducky/lib/pico-sdk/lib/tinyusb/src/common/tusb_private.h \
