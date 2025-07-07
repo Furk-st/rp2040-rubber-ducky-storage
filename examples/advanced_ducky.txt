@@ -1,0 +1,33 @@
+REM Advanced RP2040 Rubber Ducky Script
+REM Demonstrates more complex operations
+
+DELAY 3000
+REM Open PowerShell as admin (Windows)
+GUI r
+DELAY 500
+STRING powershell
+CTRL SHIFT ENTER
+DELAY 2000
+
+REM Navigate and create demo file
+STRING cd $env:USERPROFILE\Desktop
+ENTER
+DELAY 500
+
+STRING echo "RP2040 Rubber Ducky was here!" > rubber_ducky_demo.txt
+ENTER
+DELAY 500
+
+STRING Get-Date >> rubber_ducky_demo.txt
+ENTER
+DELAY 500
+
+STRING notepad rubber_ducky_demo.txt
+ENTER
+DELAY 2000
+
+REM Demo complete message
+ALT TAB
+DELAY 500
+STRING Write-Host "Demo completed successfully!" -ForegroundColor Green
+ENTER

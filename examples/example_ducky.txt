@@ -1,0 +1,40 @@
+REM RP2040 Rubber Ducky Example Script
+REM This script demonstrates basic functionality
+
+DELAY 2000
+REM Open Run dialog
+GUI r
+DELAY 500
+
+REM Open Notepad
+STRING notepad
+ENTER
+DELAY 1000
+
+REM Type demo message
+STRING Welcome to RP2040 Rubber Ducky!
+ENTER
+ENTER
+STRING This device combines:
+ENTER
+STRING - HID Keyboard functionality
+ENTER
+STRING - Mass storage capability
+ENTER
+STRING - SD card script storage
+ENTER
+ENTER
+STRING The SD card appears as a USB drive
+ENTER
+STRING You can modify scripts directly!
+ENTER
+ENTER
+STRING Made with love for the security community
+ENTER
+
+REM Select all text
+CTRL a
+DELAY 500
+
+REM Copy to clipboard for demonstration
+CTRL c
